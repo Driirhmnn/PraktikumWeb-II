@@ -1,3 +1,3 @@
 # PraktikumWeb-II
-Nama  : Andri Rahman \  
+Nama  : Andri Rahman  
 NIM   : 2110817210007
